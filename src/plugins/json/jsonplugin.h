@@ -1,6 +1,7 @@
 /*
  * JSON Tiled Plugin
- * Copyright 2011, Thorbjørn Lindeijer <thorbjorn@lindeijer.nl>
+ * Copyright 2011, Batiste Bieler <batiste.bieler@gmail.com>
+ * Based on the Lua plugin from Thorbjørn Lindeijer
  *
  * This file is part of Tiled.
  *
